@@ -1,5 +1,5 @@
-👋 <span style="font-size: 24px; font-weight: bold;">Hi, I’m Angelo Hiroki Alburo</span>  
-🌱 I’m currently learning <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png" width="20px">
+👋 <h2>Hi, I’m Angelo Hiroki Alburo</h2>
+🌱 <h3>I’m currently learning</h3> <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png" width="20px">
 
 
 <!---
