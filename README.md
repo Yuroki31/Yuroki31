@@ -1,5 +1,5 @@
  👋 Hi, I’m Angelo Hiroki Alburo
- 🌱 I’m currently learning <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png" width="50px">
+ 🌱 I’m currently learning <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png" width="20px">
 
 
 <!---
