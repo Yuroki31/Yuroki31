@@ -9,8 +9,8 @@
 </div>
 <h2> 🌱 I’m currently learning</h2> 
 <div style="display: flex; align-items: center; gap: 10px;">
- <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="30px">
   <img src="https://pngimg.com/uploads/php/php_PNG34.png" width="40px">
+   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="30px">
 
 
 <!---
