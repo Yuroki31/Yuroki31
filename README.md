@@ -9,8 +9,8 @@
 </div>
 <h2> 🌱 I’m currently learning</h2> 
 <div style="display: flex; align-items: center; gap: 10px;">
- <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174949.png" width="30px">
-  <img src="https://pngimg.com/uploads/php/php_PNG34.png" width="50px" style="position: relative; top: 10px;">
+ <img src="hhttps://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="30px">
+  <img src="https://pngimg.com/uploads/php/php_PNG34.png" width="50px">
 
 
 <!---
